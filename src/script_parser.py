@@ -1,6 +1,5 @@
 import os
 import openai
-import numpy as np
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -8,13 +7,11 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 setup_prompt = "Find the interactions between characters from a given portion of a movie transcript. For each interaction that you find, output it as Character1, Character2 with no other details or output. Below is the transcript to analyze:\n"
 chunk_size = 100
 
-# movie_name = input("Insert the name of the movie to parse:")
 # * Get all of the files in the Experiment Transcripts dir
 transcripts = os.listdir('..\Experiment Transcripts')
 
+# * To keep track of the CSVs that we have already parsed
 finished_CSVs = [name.split(".")[0] for name in os.listdir("../Movie CSVs")]
-# print(finished_CSVs)
-# exit()
 
 for movie_file_name in transcripts:
     movie_title = movie_file_name.split(".")[0]
@@ -58,5 +55,3 @@ for movie_file_name in transcripts:
             print("Chunk #", chunk_num, " total tokens: ", response.usage.total_tokens)
             
             chunk_num +=1
-
-

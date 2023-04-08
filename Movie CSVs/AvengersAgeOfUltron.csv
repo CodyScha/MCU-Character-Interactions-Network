@@ -1,136 +1,136 @@
-Tony Stark,Steve Rogers
-Steve Rogers,JARVIS
-Steve Rogers,Tony Stark
-Strucker,List
-Pietro Maximoff,Clint Barton
-Pietro Maximoff,Steve Rogers
-Natasha Romanoff,Clint Barton
-Thor,Steve Rogers
-Tony Stark,JARVIS
-Natasha Romanoff,Hulk
-Steve Rogers,Strucker
-Wanda Maximoff,Steve Rogers
-Tony Stark,Steve Rogers
-Pietro Maximoff,Wanda Maximoff
-Natasha Romanoff,Bruce Banner
-Thor,Hulk
-Tony Stark,JARVIS
-Tony Stark,Thor
-Steve Rogers,Tony Stark
-Thor,Tony Stark
-Tony Stark,Steve Rogers
-Maria Hill,Tony Stark
-Steve Rogers,Maria Hill
-Bruce Banner,Tony Stark
-Natasha Romanoff,Dr. Helen Cho
-Tony Stark,Dr. Helen Cho
-Tony Stark,Bruce Banner
-Ultron,JARVIS
-James Rhodes,Stark,Thor
-James Rhodes,Thor
-James Rhodes,Maria Hill
-Tony Stark,Maria Hill
-Thor,Maria Hill
-Sam Wilson,Steve Rogers
-Steve Rogers,Thor,Stan Lee
-Bruce Banner,Natasha Romanoff
-Steve Rogers,Bruce Banner
-Clint Barton,Thor
-Tony Stark,James Rhodes
-Steve Rogers,James Rhodes
-Tony Stark,James Rhodes
-Steve Rogers,Thor
-Natasha Romanoff,Tony Stark
-Clint Barton,Maria Hill
-Steve Rogers,Tony Stark
-Ultron,Steve Rogers,Tony Stark
-Ultron,Tony Stark
-Ultron,Steve Rogers
-Ultron,Thor
-Ultron,Bruce Banner
-Ultron,Natasha Romanoff
-Maria Hill,Rhodey
-Bruce Banner,Natasha Romanoff
-Steve Rogers,Tony Stark
-Steve Rogers,Thor
-Clint Barton,Cap
-Thor,Tony Stark
-Tony Stark,Bruce Banner
-Steve Rogers,Tony Stark
-Ultron,Wanda Maximoff
-Ultron,Pietro Maximoff
-Natasha Romanoff,Madame B
-Madame B,Natasha Romanoff
-Pietro Maximoff,Wanda Maximoff
-Ultron,Tony Stark
-Tony Stark,Hulk
-Clint Barton,Natasha Romanoff
-Thor,Steve Rogers
-Laura Barton,Clint Barton
-Ultron,Dr. Helen Cho
-Natasha Romanoff,Bruce Banner
-Natasha Romanoff,Bruce Banner
-Tony Stark,Steve Rogers
-Tony Stark,Nick Fury
-Nick Fury,Natasha Romanoff,Steve Rogers,Tony Stark,Bruce Banner,Clint Barton
-Bruce Banner,Nick Fury
-Tony Stark,Heimdall
-Thor,Heimdall
-Dr. Helen Cho,Wanda Maximoff
-Ultron,Wanda Maximoff
-Ultron,Pietro Maximoff
-Ultron,Dr. Helen Cho
-Steve Rogers,Dr. Helen Cho
-Clint Barton,Natasha Romanoff
-Steve Rogers,Ultron
-Natasha Romanoff,Clint Barton
-Pietro Maximoff,Wanda Maximoff
-Steve Rogers,Wanda Maximoff
-Bruce Banner,Tony Stark
-Clint Barton,Bruce Banner
-Bruce Banner,Tony Stark
-Tony Stark,JARVIS
-Tony Stark,Bruce Banner
-Bruce Banner,Tony Stark
-Ultron,Natasha Romanoff
-Tony Stark,Bruce Banner
-Steve Rogers,Tony Stark
-Bruce Banner,Wanda Maximoff
-Pietro Maximoff,Clint Barton
-Vision,Thor
-Vision,Steve Rogers
-Clint Barton,Wanda Maximoff
-Tony Stark,FRIDAY
-Bruce Banner,Natasha Romanoff
-Tony Stark,Ultron
-Ultron,FRIDAY
-Ultron,Vision
-Tony Stark,FRIDAY
-Clint Barton,Wanda Maximoff
-Steve Rogers,Ultron
-Thor,Ultron
-Tony Stark,FRIDAY
-Natasha Romanoff,Tony Stark
-Tony Stark,Thor
-Ultron,Thor
-Steve Rogers,Ultron
-Tony Stark,Ultron
-Steve Rogers,Barton,Natasha
-Barton,Wanda
-Wanda,Pietro
-Stark,FRIDAY
-Barton,Natasha
-Natasha,Hulk
-Ultron,Barton,Pietro
-Wanda,Ultron
-Vision,Ultron
-Natasha,Nick Fury
-Steve Rogers,Tony Stark
-Thor,Tony Stark
-Steve Rogers,Tony Stark
-Steve Rogers,Natasha
-Steve Rogers,Natasha Romanoff
-Steve Rogers,Rhodes
-Steve Rogers,Vision
-Steve Rogers,Sam
-Steve Rogers,Wanda
+Iron Man,Captain America,,,,
+Captain America,JARVIS,,,,
+Captain America,Iron Man,,,,
+Baron Strucker,Dr. List,,,,
+Pietro Maximoff,Hawkeye,,,,
+Pietro Maximoff,Captain America,,,,
+Black Widow,Hawkeye,,,,
+Thor,Captain America,,,,
+Iron Man,JARVIS,,,,
+Black Widow,Hulk,,,,
+Captain America,Baron Strucker,,,,
+Scarlet Witch,Captain America,,,,
+Iron Man,Captain America,,,,
+Pietro Maximoff,Scarlet Witch,,,,
+Black Widow,Hulk,,,,
+Thor,Hulk,,,,
+Iron Man,JARVIS,,,,
+Iron Man,Thor,,,,
+Captain America,Iron Man,,,,
+Thor,Iron Man,,,,
+Iron Man,Captain America,,,,
+Maria Hill,Iron Man,,,,
+Captain America,Maria Hill,,,,
+Hulk,Iron Man,,,,
+Black Widow,Dr. Helen Cho,,,,
+Iron Man,Dr. Helen Cho,,,,
+Iron Man,Hulk,,,,
+Ultron,JARVIS,,,,
+War Machine,Iron Man,Thor,,,
+War Machine,Thor,,,,
+War Machine,Maria Hill,,,,
+Iron Man,Maria Hill,,,,
+Thor,Maria Hill,,,,
+Falcon,Captain America,,,,
+Captain America,Thor,Stan Lee,,,
+Hulk,Black Widow,,,,
+Captain America,Hulk,,,,
+Hawkeye,Thor,,,,
+Iron Man,War Machine,,,,
+Captain America,War Machine,,,,
+Iron Man,War Machine,,,,
+Captain America,Thor,,,,
+Black Widow,Iron Man,,,,
+Hawkeye,Maria Hill,,,,
+Captain America,Iron Man,,,,
+Ultron,Captain America,Iron Man,,,
+Ultron,Iron Man,,,,
+Ultron,Captain America,,,,
+Ultron,Thor,,,,
+Ultron,Hulk,,,,
+Ultron,Black Widow,,,,
+Maria Hill,War Machine,,,,
+Hulk,Black Widow,,,,
+Captain America,Iron Man,,,,
+Captain America,Thor,,,,
+Hawkeye,Captain America,,,,
+Thor,Iron Man,,,,
+Iron Man,Hulk,,,,
+Captain America,Iron Man,,,,
+Ultron,Scarlet Witch,,,,
+Ultron,Pietro Maximoff,,,,
+Black Widow,Madame B,,,,
+Madame B,Black Widow,,,,
+Pietro Maximoff,Scarlet Witch,,,,
+Ultron,Iron Man,,,,
+Iron Man,Hulk,,,,
+Hawkeye,Black Widow,,,,
+Thor,Captain America,,,,
+Laura Barton,Hawkeye,,,,
+Ultron,Dr. Helen Cho,,,,
+Black Widow,Hulk,,,,
+Black Widow,Hulk,,,,
+Iron Man,Captain America,,,,
+Iron Man,Nick Fury,,,,
+Nick Fury,Black Widow,Captain America,Iron Man,Hulk,Hawkeye
+Hulk,Nick Fury,,,,
+Iron Man,Heimdall,,,,
+Thor,Heimdall,,,,
+Dr. Helen Cho,Scarlet Witch,,,,
+Ultron,Scarlet Witch,,,,
+Ultron,Pietro Maximoff,,,,
+Ultron,Dr. Helen Cho,,,,
+Captain America,Dr. Helen Cho,,,,
+Hawkeye,Black Widow,,,,
+Captain America,Ultron,,,,
+Black Widow,Hawkeye,,,,
+Pietro Maximoff,Scarlet Witch,,,,
+Captain America,Scarlet Witch,,,,
+Hulk,Iron Man,,,,
+Hawkeye,Hulk,,,,
+Hulk,Iron Man,,,,
+Iron Man,JARVIS,,,,
+Iron Man,Hulk,,,,
+Hulk,Iron Man,,,,
+Ultron,Black Widow,,,,
+Iron Man,Hulk,,,,
+Captain America,Iron Man,,,,
+Hulk,Scarlet Witch,,,,
+Pietro Maximoff,Hawkeye,,,,
+Vision,Thor,,,,
+Vision,Captain America,,,,
+Hawkeye,Scarlet Witch,,,,
+Iron Man,FRIDAY,,,,
+Hulk,Black Widow,,,,
+Iron Man,Ultron,,,,
+Ultron,FRIDAY,,,,
+Ultron,Vision,,,,
+Iron Man,FRIDAY,,,,
+Hawkeye,Scarlet Witch,,,,
+Captain America,Ultron,,,,
+Thor,Ultron,,,,
+Iron Man,FRIDAY,,,,
+Black Widow,Iron Man,,,,
+Iron Man,Thor,,,,
+Ultron,Thor,,,,
+Captain America,Ultron,,,,
+Iron Man,Ultron,,,,
+Captain America,Hawkeye,Black Widow,,,
+Hawkeye,Scarlet Witch,,,,
+Scarlet Witch,Pietro Maximoff,,,,
+Iron Man,FRIDAY,,,,
+Hawkeye,Black Widow,,,,
+Black Widow,Hulk,,,,
+Ultron,Hawkeye,Pietro Maximoff,,,
+Scarlet Witch,Ultron,,,,
+Vision,Ultron,,,,
+Black Widow,Nick Fury,,,,
+Captain America,Iron Man,,,,
+Thor,Iron Man,,,,
+Captain America,Iron Man,,,,
+Captain America,Black Widow,,,,
+Captain America,Black Widow,,,,
+Captain America,War Machine,,,,
+Captain America,Vision,,,,
+Captain America,Falcon,,,,
+Captain America,Scarlet Witch,,,,

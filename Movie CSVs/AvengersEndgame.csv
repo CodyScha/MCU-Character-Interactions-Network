@@ -1,149 +1,145 @@
-Clint Barton,Lila Barton
-Cooper Barton,Laura Barton
-Lila Barton,Clint Barton
-Laura Barton,Nathaniel Barton
-Clint Barton,Lila Barton
-Tony Stark,Nebula
-Nebula,Tony Stark
-Tony Stark,Pepper Potts
-Rocket Raccoon,Nebula
-Tony Stark,Steve Rogers
-Tony Stark,Rhodey
-Steve Rogers,Natasha Romanoff
-Carol Danvers,Natasha Romanoff
-Rhodey,Carol Danvers
-Nebula,Rhodey
-Carol Danvers,Rhodey
-Steve Rogers,Carol Danvers
-Bruce Banner,Carol Danvers
-Rhodey,Carol Danvers
-Thor,Carol Danvers
-Nebula,Carol Danvers
-Natasha Romanoff,Steve Rogers
-Steve Rogers,Carol Danvers
-Rocket Raccoon,Nebula
-Rocket Raccoon,Carol Danvers
-Natasha Romanoff,Okoye
-Carol Danvers,Rocket Raccoon
-Carol Danvers,Natasha Romanoff
-Natasha Romanoff,Okoye
-Natasha Romanoff,Rhodey
-Steve Rogers,Natasha Romanoff
-Scott Lang,Steve Rogers,Natasha Romanoff
-Tony Stark,Morgan Stark
-Scott Lang,Tony Stark
-Scott Lang,Steve Rogers
-Scott Lang,Bruce Banner
-Bruce Banner,Natasha Romanoff
-Tony Stark,Morgan Stark
-Tony Stark,Pepper Potts
-Bruce Banner,Scott Lang,Natasha Romanoff,Steve Rogers
-Scott Lang,Bruce Banner
-Bruce Banner,Teen Scott Lang
-Steve Rogers,Teen Scott Lang
-Bruce Banner,Natasha Romanoff
-Natasha Romanoff,Teen Scott Lang
-Old Scott Lang,Steve Rogers
-Bruce Banner,Steve Rogers
-Steve Rogers,Tony Stark
-Tony Stark,Steve Rogers
-Rocket,Scott Lang
-Bruce Banner,Valkyrie
-Rocket,Bruce Banner
-Thor,Bruce Banner
-Thor,Rocket
-Korg,Thor
-Thor,Bruce Banner
-Thor,Korg
-Thor,Bruce Banner
-Clint Barton,Natasha Romanoff
-Rhodey,Bruce Banner,Scott Lang,Nebula
-Clint Barton,Lila Barton
-Tony Stark,Scott Lang
-Bruce Banner,Tony Stark
-Clint Barton,Tony Stark
-Steve Rogers,Thor
-Rhodey,Natasha Romanoff
-Rocket,Scott Lang
-Nebula,Natasha Romanoff
-Bruce Banner,Natasha Romanoff,Tony Stark
-Clint,Rhodey
-Clint,Nat
-Rhodey,Nebula
-Nebula,Gamora
-Thanos,Nebula
-Tony,Cap
-Cap,Sitwell
-Cap,Rumlow
-Hulk,Tony
-Scott Lang,Alexander Pierce
-Thor,Alexander Pierce
-Tony Stark,Alexander Pierce
-Thor,Alexander Pierce
-Tony Stark (2012),Alexander Pierce (2012)
-Ant-Man,Tony Stark (2012)
-Tony Stark,Thor (2012)
-Steve Rogers (2012),Steve Rogers
-Steve Rogers,Steve Rogers (2012)
-Bruce Banner,The Ancient One (2012)
-Bruce Banner,The Ancient One (2012)
-Thanos (2014),Ebony Maw (2014)
-Thanos (2014),Ebony Maw (2014)
-Ebony Maw (2014),Gamora (2014)
-Thanos (2014),Ebony Maw (2014)
-Gamora (2014),Thor,Frigga (2013)
-Rhodey,Nebula
-Nebula,Ebony Maw
-Nebula,Thanos
-Tony Stark,Scott Lang
-Tony Stark,Steve Rogers
-Tony Stark,Howard Stark
-Steve Rogers,Hank Pym
-Howard Stark,Tony Stark
-Nebula (2014),Present Nebula
-Natasha Romanoff,Clint Barton
-Bruce Banner,Clint Barton
-Tony Stark,Steve Rogers
-Thor,Clint Barton
-Thor,Clint Barton
-Bruce Banner,Clint Barton
-Bruce Banner,Tony Stark
-Thor,Steve Rogers
-Thor,Scott Lang
-Bruce Banner,Steve Rogers
-Bruce Banner,Rocket
-Rhodey,Rocket
-Thanos (2014),Nebula (2014)
-Nebula (2014),Gamora (2014)
-Gamora,Nebula (2014)
-Tony Stark,Steve Rogers
-Tony Stark,Thor
-Thor,Steve Rogers
-Thanos (2014),Tony Stark
-Thanos (2014),Steve Rogers
-Tony Stark,Peter Parker
-Peter Quill,Gamora (2014)
-Clint Barton,Steve Rogers,Bruce Banner,Scott Lang
-Scott Lang,Steve Rogers
-Scott Lang,Hope Van Dyne
-Tony Stark,Doctor Strange
-Tony Stark,Thanos (2014)
-T'Challa,Clint Barton
-Wanda Maximoff,Thanos (2014)
-Steve Rogers,Peter Parker
-Pepper Potts,Tony Stark
-Tony Stark,Morgan Stark
-Clint Barton,Wanda Maximoff
-Thor,Valkyrie
-Thor,Valkyrie
-Thor,Rocket
-Thor,Quill
-Quill,Drax
-Quill,Nebula
-Quill,Rocket
-Quill,Mantis
-Quill,Groot
-Bruce,Steve
-Steve,Bucky
-Bucky,Sam
-Old Steve,Sam
+Hawkeye,Lila Barton,,
+Cooper Barton,Laura Barton,,
+Lila Barton,Hawkeye,,
+Laura Barton,Nathaniel Barton,,
+Hawkeye,Lila Barton,,
+Iron Man,Nebula,,
+Nebula,Iron Man,,
+Iron Man,Pepper Potts,,
+Rocket Raccoon,Nebula,,
+Iron Man,Captain America,,
+Iron Man,War Machine,,
+Captain America,Black Widow,,
+Captain Marvel,Black Widow,,
+War Machine,Captain Marvel,,
+Nebula,War Machine,,
+Captain Marvel,War Machine,,
+Captain America,Captain Marvel,,
+Hulk,Captain Marvel,,
+War Machine,Captain Marvel,,
+Thor,Captain Marvel,,
+Nebula,Captain Marvel,,
+Black Widow,Captain America,,
+Captain America,Captain Marvel,,
+Rocket Raccoon,Nebula,,
+Rocket Raccoon,Captain Marvel,,
+Black Widow,Okoye,,
+Captain Marvel,Rocket Raccoon,,
+Captain Marvel,Black Widow,,
+Black Widow,Okoye,,
+Black Widow,War Machine,,
+Captain America,Black Widow,,
+Ant-Man,Captain America,Black Widow,
+Iron Man,Morgan Stark,,
+Ant-Man,Iron Man,,
+Ant-Man,Captain America,,
+Ant-Man,Hulk,,
+Hulk,Black Widow,,
+Iron Man,Morgan Stark,,
+Iron Man,Pepper Potts,,
+Hulk,Ant-Man,Black Widow,Captain America
+Ant-Man,Hulk,,
+Hulk,Ant-Man,,
+Captain America,Ant-Man,,
+Hulk,Black Widow,,
+Black Widow,Ant-Man,,
+Ant-Man,Captain America,,
+Hulk,Captain America,,
+Captain America,Iron Man,,
+Iron Man,Captain America,,
+Rocket Raccoon,Ant-Man,,
+Hulk,Valkyrie,,
+Rocket Raccoon,Hulk,,
+Thor,Hulk,,
+Thor,Rocket Raccoon,,
+Korg,Thor,,
+Thor,Hulk,,
+Thor,Korg,,
+Thor,Hulk,,
+Hawkeye,Black Widow,,
+War Machine,Hulk,Ant-Man,Nebula
+Hawkeye,Lila Barton,,
+Iron Man,Ant-Man,,
+Hulk,Iron Man,,
+Hawkeye,Iron Man,,
+Captain America,Thor,,
+War Machine,Black Widow,,
+Rocket Raccoon,Ant-Man,,
+Nebula,Black Widow,,
+Hulk,Black Widow,Iron Man,
+Hawkeye,War Machine,,
+Hawkeye,Black Widow,,
+War Machine,Nebula,,
+Nebula,Gamora,,
+Thanos,Nebula,,
+Iron Man,Captain America,,
+Captain America,Jasper Sitwell,,
+Captain America,Brock Rumlow,,
+Hulk,Iron Man,,
+Iron Man,Alexander Pierce,,
+Iron Man,Alexander Pierce,,
+Ant-Man,Iron Man,,
+Iron Man,Thor,,
+Captain America,Captain America,,
+Captain America,Captain America,,
+Hulk,The Ancient One,,
+Hulk,The Ancient One,,
+Thanos,Ebony Maw,,
+Thanos,Ebony Maw,,
+Ebony Maw,Gamora,,
+Thanos,Ebony Maw,,
+Gamora,Thor,Frigga,
+War Machine,Nebula,,
+Nebula,Ebony Maw,,
+Nebula,Thanos,,
+Iron Man,Ant-Man,,
+Iron Man,Captain America,,
+Iron Man,Howard Stark,,
+Captain America,Hank Pym,,
+Howard Stark,Iron Man,,
+Black Widow,Hawkeye,,
+Hulk,Hawkeye,,
+Iron Man,Captain America,,
+Thor,Hawkeye,,
+Thor,Hawkeye,,
+Hulk,Hawkeye,,
+Hulk,Iron Man,,
+Thor,Captain America,,
+Thor,Ant-Man,,
+Hulk,Captain America,,
+Hulk,Rocket Raccoon,,
+War Machine,Rocket Raccoon,,
+Thanos,Nebula,,
+Nebula,Gamora,,
+Gamora,Nebula,,
+Iron Man,Captain America,,
+Iron Man,Thor,,
+Thor,Captain America,,
+Thanos,Iron Man,,
+Thanos,Captain America,,
+Iron Man,Spider-Man,,
+Star-Lord,Gamora,,
+Hawkeye,Captain America,Hulk,Ant-Man
+Ant-Man,Captain America,,
+Ant-Man,Hope Van Dyne,,
+Iron Man,Doctor Strange,,
+Iron Man,Thanos,,
+Black Panther,Hawkeye,,
+Scarlet Witch,Thanos,,
+Captain America,Spider-Man,,
+Pepper Potts,Iron Man,,
+Iron Man,Morgan Stark,,
+Hawkeye,Scarlet Witch,,
+Thor,Valkyrie,,
+Thor,Valkyrie,,
+Thor,Rocket Raccoon,,
+Thor,Star-Lord,,
+Star-Lord,Drax,,
+Star-Lord,Nebula,,
+Star-Lord,Rocket Raccoon,,
+Star-Lord,Mantis,,
+Star-Lord,Groot,,
+Hulk,Captain America,,
+Captain America,Winter Soldier,,
+Winter Soldier,Falcon,,
+Captain America,Falcon,,

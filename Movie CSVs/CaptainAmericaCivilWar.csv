@@ -1,112 +1,111 @@
-Vasily Karpov,Bucky Barnes
-Vasily Karpov,Winter Soldier
-Steve Rogers,Wanda Maximoff
-Natasha Romanoff,Wanda Maximoff
-Steve Rogers,Sam Wilson
-Steve Rogers,Sam Wilson,Wanda Maximoff
-Steve Rogers,Brock Rumlow
-Brock Rumlow,Steve Rogers
-Steve Rogers,Wanda Maximoff
-Steve Rogers,Vision
-Secretary Ross,Natasha Romanoff
-Rhodey,Natasha
-Steve,Ross
-Wanda,Steve
-Ross,James Rhodes
-Zemo,Karpov
-Vision,Sam
-Tony,Natasha
-Sharon Carter,Steve Rogers
-Steve Rogers,Sam Wilson
-Natasha Romanoff,T'Challa
-T'Challa,King T'Chaka
-T'Challa,Natasha Romanoff
-Steve Rogers,Natasha Romanoff
-Steve Rogers,Sam Wilson
-Steve Rogers,Sam Wilson
-Sam Wilson,Sharon Carter
-Steve Rogers,Bucky Barnes
-Black Panther,Bucky Barnes
-Steve Rogers,T'Challa
-Steve Rogers,Sam Wilson,T'Challa,Everett Ross
-Steve Rogers,Everett Ross
-Sam Wilson,Steve Rogers
-Everett Ross,T'Challa
-Steve Rogers,Tony Stark
-Natasha Romanoff,Steve Rogers
-Tony Stark,Steve Rogers
-Tony Stark,Natasha Romanoff
-Steve Rogers,Sharon Carter
-Helmut Zemo,Bucky Barnes
-Helmut Zemo,Steve Rogers
-Bucky Barnes,Steve Rogers
-Sam Wilson,Bucky Barnes
-Tony Stark,Natasha Romanoff
-Steve Rogers,Sam Wilson
-Tony Stark,Secretary Ross
-Natasha Romanoff,Tony Stark
-Peter Parker,Tony Stark
-Peter Parker,Tony Stark
-Peter Parker,May Parker
-Tony Stark,May Parker
-Peter Parker,Tony Stark
-Tony Stark,Peter Parker
-Peter Parker,Tony Stark
-Peter Parker,May Parker
-Tony Stark,Peter Parker
-Peter Parker,Tony Stark
-Tony Stark,Peter Parker
-Clint Barton,Wanda Maximoff
-Vision,Clint Barton
-Vision,Clint Barton
-Wanda Maximoff,Vision
-Natasha Romanoff,Attache
-T'Challa,Natasha Romanoff
-T'Challa,Natasha Romanoff
-Sharon Carter,Steve Rogers
-Bucky Barnes,Sam Wilson,Steve Rogers
-Steve Rogers,Clint Barton
-Clint Barton,Wanda Maximoff
-Clint Barton,Tony Stark
-Scott Lang,Natasha Romanoff
-Peter Parker,Sam Wilson
-Steve Rogers,T'Challa
-James Rhodes,Steve Rogers
-Tony Stark,Wanda Maximoff
-Tony Stark,Clint Barton
-Peter Parker,Sam Wilson
-Peter Parker,Bucky Barnes
-Bucky Barnes,T'Challa
-Clint Barton,Natasha Romanoff
-Scott Lang,T'Challa
-Steve Rogers,Natasha Romanoff
-Peter Parker,Ant-Man
-Iron Man,War Machine
-Tony Stark,Peter Parker
-Tony Stark,Natasha Romanoff
-James Rhodes,Falcon
-Tony Stark,Vision
-Tony Stark,Natasha Romanoff
-Tony Stark,Secretary Ross
-Clint Barton,Tony Stark
-Scott Lang,Tony Stark
-Sam Wilson,Tony Stark
-Bucky Barnes,Steve Rogers
-Steve Rogers,Bucky Barnes
-Steve Rogers,Bucky Barnes
-Bucky Barnes,Steve Rogers
-Tony Stark,Steve Rogers
-Tony Stark,Bucky Barnes
-Steve Rogers,Iron Man
-Bucky Barnes,Iron Man
-T'Challa,Helmut Zemo
-Steve Rogers,Iron Man
-Tony Stark,Steve Rogers
-Steve Rogers,Bucky Barnes
-Everett Ross,Helmut Zemo
-Tony Stark,Rhodes
-James Rhodes,Tony Stark
-Steve Rogers,Tony Stark
-Steve Rogers,Bucky Barnes
-Steve Rogers,T'Challa
-May Parker,Peter Parker
+Vasily Karpov,Winter Soldier,,
+Vasily Karpov,Winter Soldier,,
+Captain America,Scarlet Witch,,
+Black Widow,Scarlet Witch,,
+Captain America,Falcon,,
+Captain America,Falcon,Scarlet Witch,
+Captain America,Brock Rumlow,,
+Brock Rumlow,Captain America,,
+Captain America,Scarlet Witch,,
+Captain America,Vision,,
+Thaddeus Ross,Black Widow,,
+War Machine,Black Widow,,
+Captain America,Thaddeus Ross,,
+Scarlet Witch,Captain America,,
+Thaddeus Ross,War Machine,,
+Helmut Zemo,Vasily Karpov,,
+Vision,Falcon,,
+Iron Man,Black Widow,,
+Sharon Carter,Captain America,,
+Captain America,Falcon,,
+Black Widow,Black Panther,,
+Black Panther,T'Chaka,,
+Black Panther,Black Widow,,
+Captain America,Black Widow,,
+Captain America,Falcon,,
+Captain America,Falcon,,
+Falcon,Sharon Carter,,
+Captain America,Winter Soldier,,
+Black Panther,Winter Soldier,,
+Captain America,Black Panther,,
+Captain America,Falcon,Black Panther,Everett Ross
+Captain America,Everett Ross,,
+Falcon,Captain America,,
+Everett Ross,Black Panther,,
+Captain America,Iron Man,,
+Black Widow,Captain America,,
+Iron Man,Captain America,,
+Iron Man,Black Widow,,
+Captain America,Sharon Carter,,
+Helmut Zemo,Winter Soldier,,
+Helmut Zemo,Captain America,,
+Winter Soldier,Captain America,,
+Falcon,Winter Soldier,,
+Iron Man,Black Widow,,
+Captain America,Falcon,,
+Iron Man,Thaddeus Ross,,
+Black Widow,Iron Man,,
+Spider-Man,Iron Man,,
+Spider-Man,Iron Man,,
+Spider-Man,May Parker,,
+Iron Man,May Parker,,
+Spider-Man,Iron Man,,
+Iron Man,Spider-Man,,
+Spider-Man,Iron Man,,
+Spider-Man,May Parker,,
+Iron Man,Spider-Man,,
+Spider-Man,Iron Man,,
+Iron Man,Spider-Man,,
+Hawkeye,Scarlet Witch,,
+Vision,Hawkeye,,
+Vision,Hawkeye,,
+Scarlet Witch,Vision,,
+Black Panther,Black Widow,,
+Black Panther,Black Widow,,
+Sharon Carter,Captain America,,
+Winter Soldier,Falcon,Captain America,
+Captain America,Hawkeye,,
+Hawkeye,Scarlet Witch,,
+Hawkeye,Iron Man,,
+Ant-Man,Black Widow,,
+Spider-Man,Falcon,,
+Captain America,Black Panther,,
+War Machine,Captain America,,
+Iron Man,Scarlet Witch,,
+Iron Man,Hawkeye,,
+Spider-Man,Falcon,,
+Spider-Man,Winter Soldier,,
+Winter Soldier,Black Panther,,
+Hawkeye,Black Widow,,
+Ant-Man,Black Panther,,
+Captain America,Black Widow,,
+Spider-Man,Ant-Man,,
+Iron Man,War Machine,,
+Iron Man,Spider-Man,,
+Iron Man,Black Widow,,
+War Machine,Falcon,,
+Iron Man,Vision,,
+Iron Man,Black Widow,,
+Iron Man,Thaddeus Ross,,
+Hawkeye,Iron Man,,
+Ant-Man,Iron Man,,
+Falcon,Iron Man,,
+Winter Soldier,Captain America,,
+Captain America,Winter Soldier,,
+Captain America,Winter Soldier,,
+Winter Soldier,Captain America,,
+Iron Man,Captain America,,
+Iron Man,Winter Soldier,,
+Captain America,Iron Man,,
+Winter Soldier,Iron Man,,
+Black Panther,Helmut Zemo,,
+Captain America,Iron Man,,
+Iron Man,Captain America,,
+Captain America,Winter Soldier,,
+Everett Ross,Helmut Zemo,,
+Iron Man,War Machine,,
+War Machine,Iron Man,,
+Captain America,Iron Man,,
+Captain America,Winter Soldier,,
+Captain America,Black Panther,,
+May Parker,Spider-Man,,

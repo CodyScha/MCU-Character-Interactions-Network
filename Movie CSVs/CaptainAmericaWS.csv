@@ -1,80 +1,80 @@
-Steve Rogers,Sam Wilson
-Steve Rogers,Brock Rumlow
-Steve Rogers,Natasha Romanoff
-Natasha Romanoff,Durand
-Steve Rogers,Natasha Romanoff
-Steve Rogers,Batroc
-Steve Rogers,Natasha Romanoff
-Batroc,Steve Rogers
-Nick Fury,Steve Rogers
-Nick Fury,Alexander Pierce
-Nick Fury,Alexander Pierce
-Steve Rogers,Sam Wilson
-Nick Fury,Maria Hill
-Steve Rogers,Sharon Carter
-Nick Fury,Steve Rogers
-Natasha Romanoff,Steve Rogers,Maria Hill
-Natasha Romanoff,Steve Rogers
-Steve Rogers,Brock Rumlow
-Steve Rogers,Alexander Pierce
-Natasha Romanoff,Steve Rogers
-Natasha Romanoff,Steve Rogers
-Natasha Romanoff,Pierce,Councilman Rockwell,Councilman Singh,Councilwoman Hawley
-Natasha Romanoff,Steve Rogers
-Natasha Romanoff,Steve Rogers
-Natasha Romanoff,Steve Rogers
-Natasha Romanoff,Steve Rogers
-Steve Rogers,Sergeant Duffy
-Natasha Romanoff,Steve Rogers
-Natasha Romanoff,Steve Rogers
-Dr. Arnim Zola,Natasha Romanoff,Steve Rogers
-Steve Rogers,Dr. Arnim Zola
-Natasha Romanoff,Dr. Arnim Zola
-Steve Rogers,Natasha Romanoff
-Alexander Pierce,Winter Soldier
-Steve Rogers,Natasha Romanoff,Sam Wilson
-Natasha Romanoff,Steve Rogers
-Sam Wilson,Jasper Sitwell
-Steve Rogers,Natasha Romanoff,Jasper Sitwell
-Sam Wilson,Natasha Romanoff
-Steve Rogers,Jasper Sitwell
-Winter Soldier,Sitwell
-Steve Rogers,Winter Soldier
-Natasha Romanoff,Winter Soldier
-Bucky Barnes,Alexander Pierce
-Steve Rogers,Nick Fury
-Steve Rogers,Sam Wilson
-Alexander Pierce,Councilman Hawley
-Alexander Pierce,Councilman Rockwell
-Alexander Pierce,Councilman Singh
-Steve Rogers,Sam Wilson
-Councilman Rockwell,Natasha Romanoff
-Brock Rumlow,Sharon Carter
-Councilman Singh,Hawley
-Alexander Pierce,Nick Fury
-Steve Rogers,Bucky
-Maria Hill,Sam Wilson
-Steve Rogers,Bucky Barnes
-Steve Rogers,Maria Hill
-Natasha Romanoff,Alexander Pierce
-Bucky Barnes,Steve Rogers
-Sam Wilson,Brock Rumlow
-Nick Fury,Alexander Pierce
-Nick Fury,Natasha Romanoff
-Bucky Barnes,Steve Rogers
-Nick Fury,Steve Rogers,Sam Wilson
-Natasha Romanoff,Steve Rogers
-Steve Rogers,Sam Wilson
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Dr. List
-Baron Wolfgang von Strucker,Pietro Maximoff
-Baron Wolfgang von Strucker,Wanda Maximoff
+Captain America,Falcon,,,
+Captain America,Brock Rumlow,,,
+Captain America,Black Widow,,,
+Black Widow,Gerald Durand,,,
+Captain America,Black Widow,,,
+Captain America,Georges Batroc,,,
+Captain America,Black Widow,,,
+Georges Batroc,Captain America,,,
+Nick Fury,Captain America,,,
+Nick Fury,Alexander Pierce,,,
+Nick Fury,Alexander Pierce,,,
+Captain America,Falcon,,,
+Nick Fury,Maria Hill,,,
+Captain America,Sharon Carter,,,
+Nick Fury,Captain America,,,
+Black Widow,Captain America,Maria Hill,,
+Black Widow,Captain America,,,
+Captain America,Brock Rumlow,,,
+Captain America,Alexander Pierce,,,
+Black Widow,Captain America,,,
+Black Widow,Captain America,,,
+Black Widow,Pierce,Councilman Rockwell,Councilman Singh,Councilwoman Hawley
+Black Widow,Captain America,,,
+Black Widow,Captain America,,,
+Black Widow,Captain America,,,
+Black Widow,Captain America,,,
+Captain America,Michael Duffy,,,
+Black Widow,Captain America,,,
+Black Widow,Captain America,,,
+Dr. Arnim Zola,Black Widow,Captain America,,
+Captain America,Dr. Arnim Zola,,,
+Black Widow,Dr. Arnim Zola,,,
+Captain America,Black Widow,,,
+Alexander Pierce,Winter Soldier,,,
+Captain America,Black Widow,Falcon,,
+Black Widow,Captain America,,,
+Falcon,Jasper Sitwell,,,
+Captain America,Black Widow,Jasper Sitwell,,
+Falcon,Black Widow,,,
+Captain America,Jasper Sitwell,,,
+Winter Soldier,Jasper Sitwell,,,
+Captain America,Winter Soldier,,,
+Black Widow,Winter Soldier,,,
+Winter Soldier,Alexander Pierce,,,
+Captain America,Nick Fury,,,
+Captain America,Falcon,,,
+Alexander Pierce,Councilman Hawley,,,
+Alexander Pierce,Councilman Rockwell,,,
+Alexander Pierce,Councilman Singh,,,
+Captain America,Falcon,,,
+Councilman Rockwell,Black Widow,,,
+Brock Rumlow,Sharon Carter,,,
+Councilman Singh,Councilman Hawley,,,
+Alexander Pierce,Nick Fury,,,
+Captain America,Winter Soldier,,,
+Maria Hill,Falcon,,,
+Captain America,Winter Soldier,,,
+Captain America,Maria Hill,,,
+Black Widow,Alexander Pierce,,,
+Winter Soldier,Captain America,,,
+Falcon,Brock Rumlow,,,
+Nick Fury,Alexander Pierce,,,
+Nick Fury,Black Widow,,,
+Winter Soldier,Captain America,,,
+Nick Fury,Captain America,Falcon,,
+Black Widow,Captain America,,,
+Captain America,Falcon,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Dr. List,,,
+Baron Wolfgang von Strucker,Pietro Maximoff,,,
+Baron Wolfgang von Strucker,Scarlet Witch,,,

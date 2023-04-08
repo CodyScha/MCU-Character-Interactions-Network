@@ -5,7 +5,8 @@ Hank, Hope
 Scott, Cassandra
 Scott, Luis
 Woo, Cassie
-Woo, ScottMaggie, Cassandra
+Woo, Scott
+Maggie, Cassandra
 Paxton, Scott
 Maggie, Paxton
 Cassandra, Scott
@@ -15,16 +16,17 @@ Scott, Hank
 Hope, Hank
 Hope, Scott
 Hank, Scott
-Hope, Sonny BurchSonny Burch, Hope
+Hope, Sonny Burch
+Sonny Burch, Hope
 Scott, Hank
-Sonny Burch, FBI special friend
 Sonny Burch, Hope
 Luis, Kurt, Dave, Scott
 Hope, Ghost
 Hank, Hope
 Luis, Scott, Kurt, Dave
 Luis, Hank
-Hope, Scott, HankScott, Hank
+Hope, Scott, Hank
+Scott, Hank
 Hank, Hope
 Hope, Luis
 Scott, Hank
@@ -38,9 +40,9 @@ Scott, Luis
 Scott, Hope
 Hank, Scott
 Hope, Hank
-Teacher, Scott
 Hope, Hank
-Scott, HankHope, Scott
+Scott, Hank
+Hope, Scott
 Scott, Hope
 Scott, Hank
 Hope, Hank
@@ -57,7 +59,8 @@ Scott, Hope
 Hank, Bill Foster
 Hope, Bill Foster
 Scott, Hope
-Hank, HopeHank, Foster
+Hank, Hope
+Hank, Foster
 Hope, Hank
 Hope, Scott
 Scott, Hope
@@ -68,7 +71,6 @@ Luis, Uzman
 Bill Foster, Ghost
 Sonny Burch, Luis
 Sonny Burch, Uzman
-Sonny Burch, Cop 1Woo, Cop 1
 Hope, Hank
 Hope, Scott
 Hank, Scott
@@ -78,21 +80,19 @@ Scott, Luis
 Scott, Hope
 Maggie, Cassandra
 Woo, Cassandra
-Scott, WooScott, Cassandra
-Hank, Cop 2
-Cop 1, Hank, Hope
+Scott, Woo
+Scott, Cassandra
+Hank, Hope
 Maggie, Paxton
 Woo, Scott
-Agent 2, Woo
-Cop 3, Cop 4
 Cassandra, Scott
 Hope, Hank
 Scott, Hope, Hank
 Uzman, Sonny Burch
-Agent 2, Woo
 Hank, Hope, Scott
 Ghost, Bill Foster
-Hank, Bill FosterScott, Ava
+Hank, Bill Foster
+Scott, Ava
 Ghost, Scott
 Hank, Hope
 Scott, Hope
@@ -101,15 +101,14 @@ Sonny Burch, Hope
 Hope, Scott
 Luis, Hope
 Scott, Sonny Burch
-Scott, Announcer
 Hope, Scott
 Janet, Hank
 Bill Foster, Hank
 Janet, Hank
 Hank, Scott
 Woo, Scott
-News Reporter 1, Scott
-Hope, LuisJanet, Hope
+Hope, Luis
+Janet, Hope
 Hope, Scott
 Luis, Scotty
 Sonny Burch, Luis
@@ -120,10 +119,11 @@ Janet, Ghost
 Scott, Woo
 Luis, Mr. Karapetyan
 Hope, Cassandra
-Scott, MothScott, Hank
+Scott, Moth
+Scott, Hank
 Scott, Hope
 Scott, Hank
 Scott, Hope
 Hank, Hope
-Scott, Hank, Hope, Janet, Guys
+Scott, Hank, Hope, Janet
 Guys, Scott

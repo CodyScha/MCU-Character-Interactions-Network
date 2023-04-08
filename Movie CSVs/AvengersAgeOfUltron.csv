@@ -1,9 +1,5 @@
 Tony Stark, Steve Rogers
-Natasha Romanoff, Soldiers
 Steve Rogers, JARVIS
-Thor, Loki's scepter
-Natasha Romanoff, Soldiers
-Tony Stark, Avengers
 Steve Rogers, Tony Stark
 Strucker, List
 Pietro Maximoff, Clint Barton
@@ -30,26 +26,25 @@ Natasha Romanoff, Dr. Helen Cho
 Tony Stark, Dr. Helen Cho
 Tony Stark, Bruce Banner
 Ultron, JARVIS
-James Rhodes, Stark, ThorJames Rhodes, Thor
+James Rhodes, Stark, Thor
+James Rhodes, Thor
 James Rhodes, Maria Hill
 Tony Stark, Maria Hill
 Thor, Maria Hill
 Sam Wilson, Steve Rogers
-James Rhodes, group of people
-Steve Rogers, Thor, elderly man
+Steve Rogers, Thor, Stan Lee
 Bruce Banner, Natasha Romanoff
 Steve Rogers, Bruce Banner
 Clint Barton, Thor
 Tony Stark, James Rhodes
 Steve Rogers, James Rhodes
 Tony Stark, James Rhodes
-Bruce Banner, everyone
 Steve Rogers, Thor
 Natasha Romanoff, Tony Stark
 Clint Barton, Maria Hill
 Steve Rogers, Tony Stark
-Thor, everyone
-Ultron, Steve Rogers, Tony StarkUltron, Tony Stark
+Ultron, Steve Rogers, Tony Stark
+Ultron, Tony Stark
 Ultron, Steve Rogers
 Ultron, Thor
 Ultron, Bruce Banner
@@ -59,12 +54,13 @@ Bruce Banner, Natasha Romanoff
 Steve Rogers, Tony Stark
 Steve Rogers, Thor
 Clint Barton, Cap
-Iron Legion, Dr. Helen Cho
 Thor, Tony Stark
 Tony Stark, Bruce Banner
 Steve Rogers, Tony Stark
 Ultron, Wanda Maximoff
-Ultron, Pietro MaximoffNatasha Romanoff, Madame BMadame B, Natasha Romanoff
+Ultron, Pietro Maximoff
+Natasha Romanoff, Madame B
+Madame B, Natasha Romanoff
 Pietro Maximoff, Wanda Maximoff
 Ultron, Tony Stark
 Tony Stark, Hulk
@@ -72,12 +68,13 @@ Clint Barton, Natasha Romanoff
 Thor, Steve Rogers
 Laura Barton, Clint Barton
 Ultron, Dr. Helen Cho
-Natasha Romanoff, Bruce BannerNatasha Romanoff, Bruce Banner
+Natasha Romanoff, Bruce Banner
+Natasha Romanoff, Bruce Banner
 Tony Stark, Steve Rogers
 Tony Stark, Nick Fury
 Nick Fury, Natasha Romanoff, Steve Rogers, Tony Stark, Bruce Banner, Clint Barton
 Bruce Banner, Nick Fury
-Tony Stark, World Hub TechTony Stark, Heimdall
+Tony Stark, Heimdall
 Thor, Heimdall
 Dr. Helen Cho, Wanda Maximoff
 Ultron, Wanda Maximoff
@@ -90,7 +87,8 @@ Natasha Romanoff, Clint Barton
 Pietro Maximoff, Wanda Maximoff
 Steve Rogers, Wanda Maximoff
 Bruce Banner, Tony Stark
-Clint Barton, Bruce BannerBruce Banner, Tony Stark
+Clint Barton, Bruce Banner
+Bruce Banner, Tony Stark
 Tony Stark, JARVIS
 Tony Stark, Bruce Banner
 Bruce Banner, Tony Stark
@@ -104,18 +102,19 @@ Vision, Steve Rogers
 Clint Barton, Wanda Maximoff
 Tony Stark, FRIDAY
 Bruce Banner, Natasha Romanoff
-Tony Stark, UltronUltron, FRIDAY
+Tony Stark, Ultron
+Ultron, FRIDAY
 Ultron, Vision
 Tony Stark, FRIDAY
 Clint Barton, Wanda Maximoff
 Steve Rogers, Ultron
 Thor, Ultron
 Tony Stark, FRIDAY
-Natasha Romanoff, Tony StarkTony Stark, Thor
+Natasha Romanoff, Tony Stark
+Tony Stark, Thor
 Ultron, Thor
 Steve Rogers, Ultron
 Tony Stark, Ultron
-Rhodey, approaching robots
 Steve Rogers, Barton, Natasha
 Barton, Wanda
 Wanda, Pietro
@@ -129,7 +128,8 @@ Natasha, Nick Fury
 Steve Rogers, Tony Stark
 Thor, Tony Stark
 Steve Rogers, Tony Stark
-Steve Rogers, NatashaSteve Rogers, Natasha Romanoff
+Steve Rogers, Natasha
+Steve Rogers, Natasha Romanoff
 Steve Rogers, Rhodes
 Steve Rogers, Vision
 Steve Rogers, Sam

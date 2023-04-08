@@ -13,7 +13,7 @@ Steve Rogers, Natasha Romanoff
 Carol Danvers, Natasha Romanoff
 Rhodey, Carol Danvers
 Nebula, Rhodey
-Rocket Raccoon, hologram planetCarol Danvers, Rhodey
+Carol Danvers, Rhodey
 Steve Rogers, Carol Danvers
 Bruce Banner, Carol Danvers
 Rhodey, Carol Danvers
@@ -24,18 +24,21 @@ Steve Rogers, Carol Danvers
 Rocket Raccoon, Nebula
 Rocket Raccoon, Carol Danvers
 Natasha Romanoff, Okoye
-Carol Danvers, Rocket RaccoonCarol Danvers, Natasha Romanoff
+Carol Danvers, Rocket Raccoon
+Carol Danvers, Natasha Romanoff
 Natasha Romanoff, Okoye
 Natasha Romanoff, Rhodey
 Steve Rogers, Natasha Romanoff
 Scott Lang, Steve Rogers, Natasha Romanoff
 Tony Stark, Morgan Stark
-Scott Lang, Tony StarkScott Lang, Steve Rogers
+Scott Lang, Tony Stark
+Scott Lang, Steve Rogers
 Scott Lang, Bruce Banner
 Bruce Banner, Natasha Romanoff
 Tony Stark, Morgan Stark
 Tony Stark, Pepper Potts
-Bruce Banner, Scott Lang, Natasha Romanoff, Steve RogersScott Lang, Bruce Banner
+Bruce Banner, Scott Lang, Natasha Romanoff, Steve Rogers
+Scott Lang, Bruce Banner
 Bruce Banner, Teen Scott Lang
 Steve Rogers, Teen Scott Lang
 Bruce Banner, Natasha Romanoff
@@ -49,19 +52,22 @@ Bruce Banner, Valkyrie
 Rocket, Bruce Banner
 Thor, Bruce Banner
 Thor, Rocket
-Korg, ThorThor, Bruce Banner
+Korg, Thor
+Thor, Bruce Banner
 Thor, Korg
 Thor, Bruce Banner
 Clint Barton, Natasha Romanoff
 Rhodey, Bruce Banner, Scott Lang, Nebula
-Clint Barton, Lila BartonTony Stark, Scott Lang
+Clint Barton, Lila Barton
+Tony Stark, Scott Lang
 Bruce Banner, Tony Stark
 Clint Barton, Tony Stark
 Steve Rogers, Thor
 Rhodey, Natasha Romanoff
 Rocket, Scott Lang
 Nebula, Natasha Romanoff
-Bruce Banner, Natasha Romanoff, Tony StarkClint, Rhodey
+Bruce Banner, Natasha Romanoff, Tony Stark
+Clint, Rhodey
 Clint, Nat
 Rhodey, Nebula
 Nebula, Gamora
@@ -69,11 +75,11 @@ Thanos, Nebula
 Tony, Cap
 Cap, Sitwell
 Cap, Rumlow
-Hulk, TonyScott Lang, Alexander Pierce (2012)
-Thor (2012), Alexander Pierce (2012)
-Tony Stark (2012), Alexander Pierce (2012)
-Thor (2012), Alexander Pierce (2012)
-Tony Stark, Hydra Agent
+Hulk, Tony
+Scott Lang, Alexander Pierce
+Thor, Alexander Pierce
+Tony Stark, Alexander Pierce
+Thor, Alexander Pierce
 Tony Stark (2012), Alexander Pierce (2012)
 Ant-Man, Tony Stark (2012)
 Tony Stark, Thor (2012)
@@ -86,16 +92,17 @@ Thanos (2014), Ebony Maw (2014)
 Ebony Maw (2014), Gamora (2014)
 Thanos (2014), Ebony Maw (2014)
 Gamora (2014),Thor, Frigga (2013)
-Rhodey, NebulaNebula, Ebony Maw
+Rhodey, Nebula
+Nebula, Ebony Maw
 Nebula, Thanos
 Tony Stark, Scott Lang
 Tony Stark, Steve Rogers
-Tony Stark, Elevator Lady
 Tony Stark, Howard Stark
-Captain Stevens (Steve Rogers), Hank PymHoward Stark, Tony Stark
-Elevator Lady, Security Officer
+Steve Rogers, Hank Pym
+Howard Stark, Tony Stark
 Nebula (2014), Present Nebula
-Natasha Romanoff, Clint BartonBruce Banner, Clint Barton
+Natasha Romanoff, Clint Barton
+Bruce Banner, Clint Barton
 Tony Stark, Steve Rogers
 Thor, Clint Barton
 Thor, Clint Barton
@@ -106,29 +113,29 @@ Thor, Scott Lang
 Bruce Banner, Steve Rogers
 Bruce Banner, Rocket
 Rhodey, Rocket
-Clint Barton, Outriders
 Thanos (2014), Nebula (2014)
-Nebula (2014), Gamora (2014)Gamora, Nebula (2014)
+Nebula (2014), Gamora (2014)
+Gamora, Nebula (2014)
 Tony Stark, Steve Rogers
 Tony Stark, Thor
 Thor, Steve Rogers
 Thanos (2014), Tony Stark
 Thanos (2014), Steve Rogers
-Steve Rogers, Wakandans, Asgardians, Ravagers, and other heroes
 Tony Stark, Peter Parker
 Peter Quill, Gamora (2014)
-Clint Barton, Steve Rogers, Bruce Banner, and Scott LangScott Lang, Steve Rogers
+Clint Barton, Steve Rogers, Bruce Banner, Scott Lang
+Scott Lang, Steve Rogers
 Scott Lang, Hope Van Dyne
 Tony Stark, Doctor Strange
 Tony Stark, Thanos (2014)
 T'Challa, Clint Barton
 Wanda Maximoff, Thanos (2014)
-Peter Parker, Chitauri
 Steve Rogers, Peter Parker
 Pepper Potts, Tony Stark
 Tony Stark, Morgan Stark
 Clint Barton, Wanda Maximoff
-Thor, ValkyrieThor, Valkyrie
+Thor, Valkyrie
+Thor, Valkyrie
 Thor, Rocket
 Thor, Quill
 Quill, Drax

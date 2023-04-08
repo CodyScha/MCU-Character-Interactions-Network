@@ -9,7 +9,8 @@ Melina, Alexei
 Yelena, Melina, Nat
 Alexei, Yelena, Melina, Nat
 Melina, Yelena, Nat
-Natasha, MelinaNatasha, Melina
+Natasha, Melina
+Natasha, Melina
 Natasha, Melina
 Melina, Natasha
 Melina, Natasha
@@ -22,12 +23,13 @@ Dreykov, Alexei
 Natasha, Yelena
 Natasha, Yelena
 Dreykov, Natasha
-Agent 1, Agent 2
 Thaddeus Ross, Natasha
-Thaddeus Ross, NatashaNatasha, Ross
+Thaddeus Ross, Natasha
+Natasha, Ross
 Yelena, Ingrid
 Natasha, Rick Mason
-Natasha, YelenaNatasha, Yelena
+Natasha, Yelena
+Natasha, Yelena
 Natasha, Yelena
 Natasha, Yelena
 Natasha, Yelena
@@ -65,18 +67,15 @@ Yelena, Natasha
 Yelena, Natasha
 Yelena, Natasha
 Yelena, Natasha
-Yelena, NatashaYelena, Natasha
+Yelena, Natasha
+Yelena, Natasha
 Natasha, Rick Mason
 Yelena, Rick Mason
 Natasha, Yelena
-Alexei, Inmates
-Alexei, Prisoner 1
 Alexei, Ursa
-Alexei, Guards
 Natasha, Alexei
-Natasha, Inmates
-Natasha, Guards
-Natasha, YelenaNatasha, Yelena
+Natasha, Yelena
+Natasha, Yelena
 Yelena, Natasha
 Yelena, Natasha
 Yelena, Natasha
@@ -107,7 +106,8 @@ Alexei, Natasha
 Alexei, Melina
 Natasha, Melina
 Natasha, Yelena
-Melina, YelenaMelina, Alexei
+Melina, Yelena
+Melina, Alexei
 Alexei, Melina
 Melina, Natasha
 Alexei, Yelena
@@ -116,21 +116,23 @@ Alexei, Yelena
 Yelena, Alexei
 Melina, Alexei
 Melina, Dreykov
-Natasha, DreykovYelena, Melina
+Natasha, Dreykov
+Yelena, Melina
 Alexei, Melina
 Natasha, Dreykov
-Melina, YelenaDreykov, Natasha
+Melina, Yelena
+Dreykov, Natasha
 Natasha, Dreykov
 Natasha, Melina
 Melina, Yelena
 Natasha, Antonia
 Natasha, Yelena
 Yelena, Dreykov
-Natasha, YelenaNatasha, Dreykov
+Natasha, Yelena
+Natasha, Dreykov
 Natasha, Yelena
 Melina, Natasha
 Alexei, Natasha
 Natasha, Yelena
-Yelena, Widow 2
 Natasha, Rick Mason
 Yelena, Valentina

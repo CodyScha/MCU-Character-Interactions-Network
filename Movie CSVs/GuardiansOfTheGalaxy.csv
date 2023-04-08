@@ -1,7 +1,7 @@
-Grandpa, Meredith Quill
+Grandpa Quill, Meredith Quill
+Grandpa Quill, Peter Quill
 Meredith Quill, Young Quill
 Peter Quill, Korath
-Korath, Korath's henchmen
 Peter Quill, Bereet
 Yondu Udonta, Peter Quill
 Yondu Udonta, Kraglin, Horuz
@@ -10,7 +10,8 @@ Ronan, Korath
 Nebula, Ronan
 Gamora, Nebula
 Rocket, Groot
-Peter Quill, The BrokerThe Broker, Peter Quill
+Peter Quill, The Broker
+The Broker, Peter Quill
 Peter Quill, Gamora
 Gamora, Rocket
 Rocket, Groot
@@ -18,19 +19,15 @@ Corpsman Dey, Peter Quill
 Corpsman Dey, Rocket
 Corpsman Dey, Gamora
 Corpsman Dey, Groot
-Peter Quill, Prison Guard
-Rocket, Prisoners
-Gamora, Prisoners
 Rocket, Peter Quill
-Prisoner 5, Drax
-Gamora, DraxPeter Quill, Rocket
+Gamora, Drax
+Peter Quill, Rocket
 Peter Quill, Drax
 Peter Quill, Gamora
 Rocket, Gamora
-Head Riot Guard, Guards
 Drax, Rocket
 Rocket, Peter Quill
-Peter Quill, Prison GuardsGamora, Peter Quill
+Gamora, Peter Quill
 Rocket, Peter Quill
 Gamora, Drax
 Drax, Peter Quill
@@ -50,12 +47,13 @@ Peter Quill, Gamora
 Gamora, Peter Quill
 Rocket, Peter Quill
 Drax, Rocket
-Rocket, Peter QuillRocket, Drax
+Rocket, Peter Quill
+Rocket, Drax
 Rocket, Peter Quill
 Rocket, Gamora
 Drax, Ronan
 Nebula, Gamora
-Peter Quill, Yondu's menRonan, Korath 
+Ronan, Korath 
 Ronan, Thanos 
 Ronan, Korath 
 Ronan, Nebula 
@@ -66,8 +64,8 @@ Peter, Rocket
 Gamora, Drax 
 Rocket, Peter 
 Gamora, Peter 
-Peter, Dey 
-Rocket, Yondu's manRocket, Yondu Udonta
+Peter, Dey
+Rocket, Yondu Udonta
 Yondu Udonta, Peter Quill
 Gamora, Peter Quill
 Corpsman Dey, Nova Prime
@@ -82,7 +80,8 @@ Rocket, Saal
 Gamora, Nebula
 Peter Quill, Ronan
 Rocket, Ronan
-Peter Quill, GamoraPeter Quill, Gamora
+Peter Quill, Gamora
+Peter Quill, Gamora
 Peter Quill, Ronan
 Drax, Peter Quill
 Rocket, Drax
@@ -93,6 +92,5 @@ Corpsman Dey, Rocket
 Corpsman Dey, Drax
 Peter Quill, Corpsman Dey
 Peter Quill, Gamora
-Yondu Udonta, Troll doll
 Drax, Rocket
 Peter Quill, Gamora

@@ -1,167 +1,165 @@
-Quentin Beck,Spider-Man
-Peter Parker,E.D.I.T.H.
-Spider-Man,J. Jonah Jameson
-Spider-Man,MJ
-Flash Thompson,Spider-Man
-Spider-Man,MJ
-Happy Hogan,May Parker
-May Parker,Happy Hogan
-Peter Parker,MJ
-Peter Parker,Happy Hogan
-May Parker,MJ
-Peter Parker,May Parker,Happy Hogan
-May Parker,Peter Parker
-Matt Murdock,Happy Hogan
-Matt Murdock,Peter Parker
-Matt Murdock,May Parker
-May Parker,Peter Parker
-Peter Parker,Happy Hogan
-Peter Parker,MJ
-MJ,Happy Hogan
-Peter Parker,Ned Leeds
-MJ,Ned Leeds
-Peter Parker,Aunt May
-May Parker,Peter Parker
-Peter Parker,MJ,Ned Leeds
-MJ,Ned Leeds
-Ned Leeds,Flash Thompson
-Peter Parker,Stephen Strange
-Wong,Stephen Strange
-Spider-Man,Stephen Strange
-Peter Parker,Stephen Strange
-Peter Parker,Flash Thompson
-Spider-Man,Doc Ock
-Otto Octavius,Peter Parker
-Peter Parker,Stephen Strange
-Otto Octavius,Stephen Strange
-Ned Leeds,Stephen Strange
-Peter Parker,MJ
-MJ,Stephen Strange
-Peter Parker,Otto Octavius
-Peter Parker,MJ,Ned Leeds
-Peter Parker,Flint Marko
-Sandman,Electro
-Peter Parker,Sandman
-Peter Parker,Flint Marko
-Max Dillon,Curt Connors
-Max Dillon,Ned Leeds
-MJ,Peter Parker
-Norman Osborn,May Parker
-May Parker,Peter Parker
-Peter Parker,May Parker
-Peter Parker,Norman Osborn
-Peter Parker,Ned Leeds,MJ
-Norman Osborn,Otto Octavius
-Peter Parker,Stephen Strange
-Peter Parker,Cloak of Levitation
-Peter Parker,Stephen Strange
-Peter Parker,Ned Leeds
-Peter Parker,MJ
-Peter Parker,Norman Osborn
-Peter Parker,Otto Octavius
-Peter Parker,Max Dillon
-Peter Parker,Flint Marko
-Peter Parker,Curt Connors
-Peter Parker,aunt May
-Otto Octavius,Norman Osborn
-MJ,Norman Osborn
-Peter Parker,May Parker
-Max Dillon,Electro
-Otto Octavius,Doc Ock
-Flint Marko,Max Dillon
-Peter Parker,Norman Osborn
-May Parker,Otto Octavius
-Max Dillon,Flint Marko
-Peter Parker,Doctor Octopus
-Norman Osborn,Otto Octavius
-Otto Octavius,Peter Parker
-Peter Parker,May Parker,Flint Marko,Max Dillon,Otto Octavius,Norman Osborn
-Max Dillon,Peter Parker
-Green Goblin,May
-Green Goblin,Max
-Green Goblin,Otto Octavius
-Peter Parker,Green Goblin
-May Parker,Peter Parker
-Happy Hogan,Peter Parker
-J. Jonah Jameson,Peter Parker
-MJ,Ned Leeds
-Ned Leeds,MJ
-Ned's Grandmother,Webb Peter
-Webb Peter,MJ
-Webb Peter,Ned Leeds
-MJ,Webb Peter
-Ned Leeds,Raimi Peter
-Raimi Peter,MJ
-Raimi Peter,Webb Peter
-Raimi Peter,Webb Peter
-Raimi Peter,Webb Peter
-Raimi Peter,Webb Peter
-Raimi Peter,Webb Peter,MCU Peter
-Raimi Peter,Webb Peter,MCU Peter
-Raimi Peter,Webb Peter,MCU Peter
-Raimi Peter,Webb Peter
-MJ,MCU Peter
-Raimi Peter,Webb Peter
-Raimi Peter,Webb Peter
-Ned Leeds,Raimi Peter
-Webb Peter,Raimi Peter
-Ned Leeds,MCU Peter,Raimi Peter,Webb Peter
-MCU Peter,Raimi Peter,Webb Peter,Ned Leeds
-Ned Leeds,MCU Peter
-MCU Peter,Webb Peter
-Webb Peter,Raimi Peter
-Raimi Peter,MCU Parker
-Webb Peter,Raimi Peter
-MCU Peter,MJ
-MCU Peter,Raimi Peter
-Webb Peter,Raimi Peter
-Webb Peter,MCU Parker
-Raimi Peter,MCU Peter
-Webb Peter,Raimi Peter
-Raimi Peter,MCU Peter
-Webb Peter,Raimi Peter
-Webb Peter,MCU Peter
-Raimi Peter,MCU Peter
-Webb Peter,Raimi Peter
-Webb Peter,Raimi Peter,MCU Parker
-Raimi Peter,Webb Peter
-Webb Peter,Max Dillon
-Raimi Peter,Dr. Curt Connors
-MCU Peter,MJ
-MCU Peter,Sandman
-Webb Peter,Electro
-Peter 1,Peter 2,Peter 3
-Peter 1,Peter 3
-Peter 2,Sandman
-Peter 1,Electro
-Peter 3,Connors
-Peter 1,Lizard
-Peter 2,Electro
-Peter 3,Max Dillon
-Peter 2,Otto Octavius
-Peter 1,Peter 2,Stephen Strange
-Green Goblin,MCU Spider-Man
-Otto,Strange
-Peter 1,MJ
-Peter 3,MJ
-Peter 3,Peter 2
-Peter 1,Green Goblin
-Peter 1,Peter 2
-Peter 1,Peter 3
-Peter 1,MJ,Ned
-MJ,Peter Parker
-Peter Parker,Ned Leeds
-Peter Parker,Happy Hogan
-Mordo,Wanda
-Mordo,Wong
-Strange,Sinister Strange
-Coach Wilson,Peter,MJ,Ned,Flash
-Happy,Matt Murdock
-Peter Parker,May Parker
-Matt Murdock,Happy
-Webb Peter,Raimi Peter
-Webb Peter,MCU Peter
-Raimi Peter,MCU Peter
-Webb Peter,Raimi Peter
-Webb Peter,Raimi Peter
-Mr. Dell,Mr. Harrington
+Quentin Beck,Spider-Man,,,,
+Spider-Man,EDITH,,,,
+Spider-Man,J. Jonah Jameson,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Flash Thompson,Spider-Man,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Happy Hogan,May Parker,,,,
+May Parker,Happy Hogan,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Spider-Man,Happy Hogan,,,,
+May Parker,Michelle Jones-Watson,,,,
+Spider-Man,May Parker,Happy Hogan,,,
+May Parker,Spider-Man,,,,
+Matt Murdock,Happy Hogan,,,,
+Matt Murdock,Spider-Man,,,,
+Matt Murdock,May Parker,,,,
+May Parker,Spider-Man,,,,
+Spider-Man,Happy Hogan,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Michelle Jones-Watson,Happy Hogan,,,,
+Spider-Man,Ned Leeds,,,,
+Michelle Jones-Watson,Ned Leeds,,,,
+Spider-Man,May Parker,,,,
+May Parker,Spider-Man,,,,
+Spider-Man,Michelle Jones-Watson,Ned Leeds,,,
+Michelle Jones-Watson,Ned Leeds,,,,
+Ned Leeds,Flash Thompson,,,,
+Spider-Man,Doctor Strange,,,,
+Wong,Doctor Strange,,,,
+Spider-Man,Doctor Strange,,,,
+Spider-Man,Doctor Strange,,,,
+Spider-Man,Flash Thompson,,,,
+Spider-Man,Otto Octavius,,,,
+Otto Octavius,Spider-Man,,,,
+Spider-Man,Doctor Strange,,,,
+Otto Octavius,Doctor Strange,,,,
+Ned Leeds,Doctor Strange,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Michelle Jones-Watson,Doctor Strange,,,,
+Spider-Man,Otto Octavius,,,,
+Spider-Man,Michelle Jones-Watson,Ned Leeds,,,
+Spider-Man,Flint Marko,,,,
+Flint Marko,Max Dillon,,,,
+Spider-Man,Flint Marko,,,,
+Spider-Man,Flint Marko,,,,
+Max Dillon,Curt Connors,,,,
+Max Dillon,Ned Leeds,,,,
+Michelle Jones-Watson,Spider-Man,,,,
+Norman Osborn,May Parker,,,,
+May Parker,Spider-Man,,,,
+Spider-Man,May Parker,,,,
+Spider-Man,Norman Osborn,,,,
+Spider-Man,Ned Leeds,Michelle Jones-Watson,,,
+Norman Osborn,Otto Octavius,,,,
+Spider-Man,Doctor Strange,,,,
+Spider-Man,Cloak of Levitation,,,,
+Spider-Man,Doctor Strange,,,,
+Spider-Man,Ned Leeds,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Spider-Man,Norman Osborn,,,,
+Spider-Man,Otto Octavius,,,,
+Spider-Man,Max Dillon,,,,
+Spider-Man,Flint Marko,,,,
+Spider-Man,Curt Connors,,,,
+Spider-Man,May Parker,,,,
+Otto Octavius,Norman Osborn,,,,
+Michelle Jones-Watson,Norman Osborn,,,,
+Spider-Man,May Parker,,,,
+Flint Marko,Max Dillon,,,,
+Spider-Man,Norman Osborn,,,,
+May Parker,Otto Octavius,,,,
+Max Dillon,Flint Marko,,,,
+Spider-Man,Otto Octavius,,,,
+Norman Osborn,Otto Octavius,,,,
+Otto Octavius,Spider-Man,,,,
+Spider-Man,May Parker,Flint Marko,Max Dillon,Otto Octavius,Norman Osborn
+Max Dillon,Spider-Man,,,,
+Norman Osborn,May Parker,,,,
+Norman Osborn,Max Dillon,,,,
+Norman Osborn,Otto Octavius,,,,
+Spider-Man,Norman Osborn,,,,
+May Parker,Spider-Man,,,,
+Happy Hogan,Spider-Man,,,,
+J. Jonah Jameson,Spider-Man,,,,
+Michelle Jones-Watson,Ned Leeds,,,,
+Ned Leeds,Michelle Jones-Watson,,,,
+Ned's Grandmother,Webb Spider-Man,,,,
+Webb Spider-Man,Michelle Jones-Watson,,,,
+Webb Spider-Man,Ned Leeds,,,,
+Michelle Jones-Watson,Webb Spider-Man,,,,
+Ned Leeds,Raimi Spider-Man,,,,
+Raimi Spider-Man,Michelle Jones-Watson,,,,
+Raimi Spider-Man,Webb Spider-Man,,,,
+Raimi Spider-Man,Webb Spider-Man,,,,
+Raimi Spider-Man,Webb Spider-Man,,,,
+Raimi Spider-Man,Webb Spider-Man,,,,
+Raimi Spider-Man,Webb Spider-Man,Spider-Man,,,
+Raimi Spider-Man,Webb Spider-Man,Spider-Man,,,
+Raimi Spider-Man,Webb Spider-Man,Spider-Man,,,
+Raimi Spider-Man,Webb Spider-Man,,,,
+Michelle Jones-Watson,Spider-Man,,,,
+Raimi Spider-Man,Webb Spider-Man,,,,
+Raimi Spider-Man,Webb Spider-Man,,,,
+Ned Leeds,Raimi Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Ned Leeds,Spider-Man,Raimi Spider-Man,Webb Spider-Man,,
+Spider-Man,Raimi Spider-Man,Webb Spider-Man,Ned Leeds,,
+Ned Leeds,Spider-Man,,,,
+Spider-Man,Webb Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Raimi Spider-Man,Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Spider-Man,Raimi Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Webb Spider-Man,Spider-Man,,,,
+Raimi Spider-Man,Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Raimi Spider-Man,Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Webb Spider-Man,Spider-Man,,,,
+Raimi Spider-Man,Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,Spider-Man,,,
+Raimi Spider-Man,Webb Spider-Man,,,,
+Webb Spider-Man,Max Dillon,,,,
+Raimi Spider-Man,Curt Connors,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Spider-Man,Flint Marko,,,,
+Webb Spider-Man,Max Dillon,,,,
+Spider-Man,Raimi Spider-Man,Webb Spider-Man,,,
+Spider-Man,Webb Spider-Man,,,,
+Raimi Spider-Man,Flint Marko,,,,
+Spider-Man,Max Dillon,,,,
+Webb Spider-Man,Curt Connors,,,,
+Spider-Man,Curt Connors,,,,
+Raimi Spider-Man,Max Dillon,,,,
+Webb Spider-Man,Max Dillon,,,,
+Raimi Spider-Man,Otto Octavius,,,,
+Spider-Man,Raimi Spider-Man,Doctor Strange,,,
+Norman Osborn,Spider-Man,,,,
+Otto Octavius,Doctor Strange,,,,
+Spider-Man,Michelle Jones-Watson,,,,
+Webb Spider-Man,Michelle Jones-Watson,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Spider-Man,Norman Osborn,,,,
+Spider-Man,Raimi Spider-Man,,,,
+Spider-Man,Webb Spider-Man,,,,
+Spider-Man,Michelle Jones-Watson,Ned Leeds,,,
+Michelle Jones-Watson,Spider-Man,,,,
+Spider-Man,Ned Leeds,,,,
+Spider-Man,Happy Hogan,,,,
+Mordo,Scarlet Witch,,,,
+Mordo,Wong,,,,
+Doctor Strange,Sinister Strange,,,,
+Coach Wilson,Spider-Man,Michelle Jones-Watson,Ned Leeds,Flash Thompson,
+Happy Hogan,Matt Murdock,,,,
+Spider-Man,May Parker,,,,
+Matt Murdock,Happy Hogan,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Webb Spider-Man,Spider-Man,,,,
+Raimi Spider-Man,Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Webb Spider-Man,Raimi Spider-Man,,,,
+Julius Dell,Roger Harrington,,,,

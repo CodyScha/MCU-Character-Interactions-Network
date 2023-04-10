@@ -1,137 +1,135 @@
-Darcy,Jane
-Jane,Selvig
-Darcy,Jane,Selvig
-JANE,SELVIG
-JANE,THOR
-DARCY,JANE
-JANE,SELVIG
-JANE,SELVIG
-JANE,SELVIG
-Odin,Frigga
-Odin,Frigga
-Odin,Frigga
-Thor,Loki
-Thor,Loki
-Loki,Thor
-Loki,Thor
-Loki,Thor,Volstagg,Fandral,Pretty Maiden,Hogun,Sif
-VOLSTAGG,FANDRAL,HOGUN,SIF
-VOLSTAGG,LOKI
-SIF,FANDRAL
-ODIN,GUNGIR
-Thor,Odin
-Sif,Loki,Thor
-Sif,Volstagg,Odin,Fandral
-Thor,Odin
-Thor,Loki
-Thor,Sif
-Thor,Fandral
-Thor,Hogun
-Thor,Volstagg
-Hogun,Loki
-Thor,Heimdall
-Loki,Heimdall,
-Fandral,Heimdall
-Thor,Loki
-Thor,Loki
-Hogun,Volstagg
-Volstagg,Fandral
-THOR,SIF
-THOR,JOTUNS
-THOR,JOTUNS
-VOLSTAGG,LOKI
-THOR,LOKI
-ODIN,LAUFEY
-Odin,Laufey
-Odin,Thor
-Odin,Fandral,Sif,Volstagg,Hogun
-Thor,Fandral,Sif,Volstagg,Hogun
-Odin,Thor,Loki
-Selvig,Jane
-Selvig,Thor
-Darcy,Thor
-Selvig,Jane
-Selvig,Jane,Darcy
-Jane,Selvig
-Jane,Darcy
-Jane,Selvig
-Darcy,Selvig
-Jane,Selvig
-Jane,Selvig,Darcy
-Fandral,Sif
-Loki,Odin
-Loki,Sif
-Odin,Loki
-Odin,Loki
-Thor,Jane,Darcy
-Thor,Jane
-Frigga,Loki
-Loki,Frigga
-Jane,Selvig,
-Thor,Darcy,Isabela
-Darcy,Thor
-Jane,Thor
-Selvig,Jane
-Jane,Selvig,Darcy,Thor,Sif,Loki,Fandral,Volstagg,Odin,Coulson
-Coulson,Selvig
-Jane,Coulson
-Jane,Selvig
-Jane,Thor
-Thor,Sitwell
-Thor,Delancey
-Thor,Jackson
-Thor,DeLancey
-BARTON,THOR
-Coulson,Barton
-Thor,Coulson
-Jane,Selvig
-Jane,Darcy
-Thor,Loki
-Thor,Loki
-Loki,Thor
-Coulson,Loki
-Thor,Coulson
-Sitwell,Coulson
-Coulson,Selvig
-Loki,Laufey
-Loki,Heimdall
-Loki,The Destroyer
-Thor,Selvig
-Thor,Selvig
-Selvig,Thor
-Jane,Thor
-Thor,Jane
-Thor,Selvig
-Darcy,Selvig
-Thor,Jane,Darcy,Selvig
-Thor,Isabela
-Sif,Heimdall
-Loki,Heimdall
-Thor,Sif
-Thor,Jane,Selvig,Darcy
-Hogun,Fandral,Volstagg
-Thor,Jane,Selvig,Sif,Volstagg,Hogun,Fandral,The Destroyer
-Thor,The Destroyer
-Jane,The Mighty Thor
-Thor,Coulson
-Darcy,Volstagg
-Thor,Heimdall
-Thor,Coulson
-Thor,Jane
-Loki,Laufey
-Loki,Frigga
-Thor,Frigga
-Thor,Loki
-Thor,Frigga
-Thor,Loki
-Loki,Thor
-Thor,Loki
-Loki,Thor
-Thor,Odin
-FANDRAL,VOLSTAGG
-HOGUN,FANDRAL
-SIF,FRIGGA
-THOR,ODIN
-THOR,HEIMDALL
-JANE,DARCY
-DARCY,JANE
+Darcy Lewis,Jane Foster,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Darcy Lewis,Jane Foster,Erik Selvig,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Jane Foster,Thor,,,,,,,,
+Darcy Lewis,Jane Foster,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Odin,Frigga,,,,,,,,
+Odin,Frigga,,,,,,,,
+Odin,Frigga,,,,,,,,
+Thor,Loki,,,,,,,,
+Thor,Loki,,,,,,,,
+Loki,Thor,,,,,,,,
+Loki,Thor,,,,,,,,
+Loki,Thor,Volstagg,Fandral,Hogun,Sif,,,,
+Volstagg,Fandral,Hogun,Sif,,,,,,
+Volstagg,Loki,,,,,,,,
+Sif,Fandral,,,,,,,,
+Odin,Gungir,,,,,,,,
+Thor,Odin,,,,,,,,
+Sif,Loki,Thor,,,,,,,
+Sif,Volstagg,Odin,Fandral,,,,,,
+Thor,Odin,,,,,,,,
+Thor,Loki,,,,,,,,
+Thor,Sif,,,,,,,,
+Thor,Fandral,,,,,,,,
+Thor,Hogun,,,,,,,,
+Thor,Volstagg,,,,,,,,
+Hogun,Loki,,,,,,,,
+Thor,Heimdall,,,,,,,,
+Loki,Heimdall,,,,,,,,
+Fandral,Heimdall,,,,,,,,
+Thor,Loki,,,,,,,,
+Thor,Loki,,,,,,,,
+Hogun,Volstagg,,,,,,,,
+Volstagg,Fandral,,,,,,,,
+Thor,Sif,,,,,,,,
+Volstagg,Loki,,,,,,,,
+Thor,Loki,,,,,,,,
+Odin,Laufey,,,,,,,,
+Odin,Laufey,,,,,,,,
+Odin,Thor,,,,,,,,
+Odin,Fandral,Sif,Volstagg,Hogun,,,,,
+Thor,Fandral,Sif,Volstagg,Hogun,,,,,
+Odin,Thor,Loki,,,,,,,
+Erik Selvig,Jane Foster,,,,,,,,
+Erik Selvig,Thor,,,,,,,,
+Darcy Lewis,Thor,,,,,,,,
+Erik Selvig,Jane Foster,,,,,,,,
+Erik Selvig,Jane Foster,Darcy Lewis,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Jane Foster,Darcy Lewis,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Darcy Lewis,Erik Selvig,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Jane Foster,Erik Selvig,Darcy Lewis,,,,,,,
+Fandral,Sif,,,,,,,,
+Loki,Odin,,,,,,,,
+Loki,Sif,,,,,,,,
+Odin,Loki,,,,,,,,
+Odin,Loki,,,,,,,,
+Thor,Jane Foster,Darcy Lewis,,,,,,,
+Thor,Jane Foster,,,,,,,,
+Frigga,Loki,,,,,,,,
+Loki,Frigga,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Thor,Darcy Lewis,Isabela Alvarez,,,,,,,
+Darcy Lewis,Thor,,,,,,,,
+Jane Foster,Thor,,,,,,,,
+Erik Selvig,Jane Foster,,,,,,,,
+Jane Foster,Erik Selvig,Darcy Lewis,Thor,Sif,Loki,Fandral,Volstagg,Odin,Phil Coulson
+Phil Coulson,Erik Selvig,,,,,,,,
+Jane Foster,Phil Coulson,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Jane Foster,Thor,,,,,,,,
+Thor,Jasper Sitwell,,,,,,,,
+Thor,Delancey,,,,,,,,
+Thor,Jackson,,,,,,,,
+Thor,DeLancey,,,,,,,,
+Hawkeye,Thor,,,,,,,,
+Phil Coulson,Hawkeye,,,,,,,,
+Thor,Phil Coulson,,,,,,,,
+Jane Foster,Erik Selvig,,,,,,,,
+Jane Foster,Darcy Lewis,,,,,,,,
+Thor,Loki,,,,,,,,
+Thor,Loki,,,,,,,,
+Loki,Thor,,,,,,,,
+Phil Coulson,Loki,,,,,,,,
+Thor,Phil Coulson,,,,,,,,
+Jasper Sitwell,Phil Coulson,,,,,,,,
+Phil Coulson,Erik Selvig,,,,,,,,
+Loki,Laufey,,,,,,,,
+Loki,Heimdall,,,,,,,,
+Loki,The Destroyer,,,,,,,,
+Thor,Erik Selvig,,,,,,,,
+Thor,Erik Selvig,,,,,,,,
+Erik Selvig,Thor,,,,,,,,
+Jane Foster,Thor,,,,,,,,
+Thor,Jane Foster,,,,,,,,
+Thor,Erik Selvig,,,,,,,,
+Darcy Lewis,Erik Selvig,,,,,,,,
+Thor,Jane Foster,Darcy Lewis,Erik Selvig,,,,,,
+Thor,Isabela Alvarez,,,,,,,,
+Sif,Heimdall,,,,,,,,
+Loki,Heimdall,,,,,,,,
+Thor,Sif,,,,,,,,
+Thor,Jane Foster,Erik Selvig,Darcy Lewis,,,,,,
+Hogun,Fandral,Volstagg,,,,,,,
+Thor,Jane Foster,Erik Selvig,Sif,Volstagg,Hogun,Fandral,The Destroyer,,
+Thor,The Destroyer,,,,,,,,
+Jane Foster,Thor,,,,,,,,
+Thor,Phil Coulson,,,,,,,,
+Darcy Lewis,Volstagg,,,,,,,,
+Thor,Heimdall,,,,,,,,
+Thor,Phil Coulson,,,,,,,,
+Thor,Jane Foster,,,,,,,,
+Loki,Laufey,,,,,,,,
+Loki,Frigga,,,,,,,,
+Thor,Frigga,,,,,,,,
+Thor,Loki,,,,,,,,
+Thor,Frigga,,,,,,,,
+Thor,Loki,,,,,,,,
+Loki,Thor,,,,,,,,
+Thor,Loki,,,,,,,,
+Loki,Thor,,,,,,,,
+Thor,Odin,,,,,,,,
+Fandral,Volstagg,,,,,,,,
+Hogun,Fandral,,,,,,,,
+Sif,Frigga,,,,,,,,
+Thor,Odin,,,,,,,,
+Thor,Heimdall,,,,,,,,
+Jane Foster,Darcy Lewis,,,,,,,,
+Darcy Lewis,Jane Foster,,,,,,,,

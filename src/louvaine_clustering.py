@@ -1,7 +1,6 @@
 import networkx as nx
 
 G = nx.Graph()
-G_louvaine = nx.Graph()
 
 G = nx.read_gml("..\MCU GML\MCU.gml")
 

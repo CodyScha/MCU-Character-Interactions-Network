@@ -1,0 +1,352 @@
+Id,Label,cluster,modularity_class,Degree
+0,Mitchell Carson,0,0,3
+1,Hank Pym,0,0,12
+2,Peggy Carter,6,6,8
+3,Howard Stark,6,6,6
+4,Peachy,0,0,1
+5,Ant-Man,0,0,29
+6,Luis,0,0,12
+7,Dale,0,0,1
+8,Dave,0,0,6
+9,Kurt,0,0,4
+10,Hope van Dyne,0,0,9
+11,Darren Cross,0,0,6
+12,Frank,0,0,1
+13,Cassie Lang,0,0,6
+14,Jim Paxton,0,0,6
+15,Maggie Lang,0,0,3
+16,Ant-thony,0,0,1
+17,Falcon,2,2,18
+18,Ignacio,0,0,2
+19,Stan Lee,0,0,11
+20,Captain America,6,2,53
+21,Winter Soldier,5,2,14
+22,Janet van Dyne,0,0,4
+23,Jimmy Woo,0,0,2
+24,Sonny Burch,0,0,4
+25,Ghost,0,0,5
+26,Bill Foster,0,0,4
+27,Uzman,0,0,2
+28,Scotty,0,0,1
+29,Mr. Karapetyan,0,0,1
+30,Iron Man,1,2,58
+31,JARVIS,2,2,4
+32,Dr. List,2,2,2
+33,Baron Strucker,2,2,2
+34,Pietro Maximoff,2,2,5
+35,Hawkeye,11,2,19
+36,Black Widow,2,2,44
+37,Thor,11,12,54
+38,Hulk,4,1,31
+39,Scarlet Witch,2,2,21
+40,Maria Hill,11,2,12
+41,Dr. Helen Cho,2,2,5
+42,Ultron,2,2,12
+43,War Machine,1,2,22
+44,Madame B,2,2,1
+45,Laura Barton,11,3,3
+46,Nick Fury,9,2,22
+47,Heimdall,11,12,10
+48,Vision,2,2,9
+49,FRIDAY,2,2,2
+50,Lila Barton,11,2,1
+51,Cooper Barton,11,3,1
+52,Nathaniel Barton,11,3,1
+53,Nebula,3,10,14
+54,Pepper Potts,1,2,10
+55,Rocket Raccoon,3,10,20
+56,Captain Marvel,9,10,21
+57,Okoye,5,4,20
+58,Morgan Stark,1,2,2
+59,Valkyrie,11,12,10
+60,Korg,11,12,10
+61,Gamora,3,10,14
+62,Thanos,3,10,16
+63,Jasper Sitwell,11,2,6
+64,Brock Rumlow,6,2,3
+65,Alexander Pierce,2,2,8
+66,The Ancient One,4,1,4
+67,Ebony Maw,3,10,7
+68,Frigga,11,12,6
+69,Spider-Man,10,11,46
+70,Star-Lord,3,10,25
+71,Doctor Strange,4,1,31
+72,Black Panther,5,4,21
+73,Happy Hogan,1,2,14
+74,Drax,3,10,13
+75,Mantis,3,10,9
+76,Groot,3,10,8
+77,Loki,11,12,25
+78,Proxima Midnight,2,2,7
+79,Wong,4,1,12
+80,Ned Leeds,10,11,17
+81,Black Dwarf,1,2,1
+82,Corvus Glaive,2,2,3
+83,Cloak of Levitation,4,1,2
+84,Eitri,3,10,2
+85,Red Skull,6,6,11
+86,Shuri,5,4,18
+87,M'Baku,5,4,12
+88,T'Chaka,5,4,4
+89,N'Jobu,5,4,2
+90,Zuri,5,4,6
+91,Nakia,5,4,14
+92,Ayo,5,4,11
+93,Ramonda,5,4,13
+94,Killmonger,5,4,10
+95,Ulysses Klaue,5,4,8
+96,Limbani,5,4,3
+97,Linda Johnson,5,4,3
+98,W'Kabi,5,4,7
+99,Everett Ross,5,4,11
+100,Griot,5,4,4
+101,Aneka,5,4,7
+102,Nomble,5,4,2
+103,Dr. Graham,5,4,3
+104,Smitty,5,4,1
+105,Salazar,5,4,2
+106,Jackson (Navy SEAL),5,4,1
+107,Attuma,5,4,7
+108,Namor,5,4,10
+109,Riri Williams,5,4,7
+110,Namora,5,4,5
+111,Valentina Allegra de la Fontaine,2,5,2
+112,Dora,5,4,1
+113,M'Bele,5,4,5
+114,Sope,5,4,1
+115,Yelena Belova,2,5,7
+116,Melina Vostokoff,2,5,4
+117,Red Guardian,2,5,5
+118,Dreykov,2,5,4
+119,Thaddeus Ross,4,2,6
+120,Ingrid,2,5,1
+121,Rick Mason,2,5,2
+122,Ursa Major,2,5,1
+123,Antonia,2,2,1
+124,Vasily Karpov,5,4,2
+125,Helmut Zemo,5,4,5
+126,Sharon Carter,6,2,3
+127,May Parker,10,11,10
+128,Bonnie,6,2,1
+129,Connie,5,2,1
+130,Dr. Erskine,6,6,5
+131,Gilmore Hodge,6,6,3
+132,Colonel Chester Phillips,6,6,9
+133,Arnim Zola,6,6,3
+134,Senator Brandt,6,6,1
+135,Heinz Kruger,6,6,4
+136,Roeder,6,6,1
+137,Schneider,6,6,1
+138,Jim Morita,6,6,7
+139,James Montgomery Falsworth,6,6,6
+140,Gabe Jones,6,6,8
+141,Jacques Dernier,6,6,5
+142,Dum Dum Dugan,6,6,6
+143,Private Lorraine,6,2,1
+144,Gerald Durand,2,2,1
+145,Georges Batroc,6,2,1
+146,Councilman Hawley,2,2,5
+147,Councilman Singh,2,2,5
+148,Councilman Rockwell,2,2,5
+149,Pierce,2,2,4
+150,Michael Duffy,6,2,1
+151,Dr. Arnim Zola,2,2,2
+152,Baron Wolfgang von Strucker,2,2,3
+153,Yon-Rogg,9,10,5
+154,Korath,3,10,4
+155,Minn-Erva,9,10,2
+156,Bron-Char,9,10,1
+157,Att-Lass,9,10,1
+158,Talos,9,10,6
+159,Joseph Danvers,9,10,1
+160,Maria Rambeau,9,10,7
+161,Goose,9,10,4
+162,Mar-Vell,9,10,2
+163,Phil Coulson,11,12,19
+164,Ronan the Accuser,3,10,8
+165,Monica Rambeau,9,10,2
+166,Tom,9,10,1
+167,Soren,9,10,1
+168,Kaecilius,4,1,3
+169,Billy (assistant nurse),4,1,1
+170,Christine Palmer,4,1,1
+171,Nicodemus West,4,1,1
+172,Jonathan Pangborn,4,1,2
+173,Mordo,4,1,5
+174,Dormammu,4,1,1
+175,America Chavez,4,1,4
+176,Defender Strange,4,1,1
+177,Rintrah,4,1,1
+178,Sara Wolfe,4,1,1
+179,Pizza Poppa,4,1,1
+180,Mordo (Earth-838),4,1,1
+181,Scarlet Witch (Earth-838),2,7,5
+182,Billy (Earth-838),2,7,3
+183,Tommy (Earth-838),2,7,3
+184,Christine Palmer (Earth-838),4,1,1
+185,Professor X,2,7,2
+186,Mr. Fantastic,2,7,1
+187,Maria Rambeau (Earth-838),2,7,1
+188,Agent Carter,2,7,2
+189,Sinister Strange,4,1,1
+190,Clea,4,1,1
+191,Sersi,7,8,9
+192,Ajak,7,8,7
+193,Ikaris,7,8,11
+194,Makkari,7,8,7
+195,Kingo,7,8,7
+196,Dane Whitman,7,8,3
+197,Sprite,7,8,9
+198,Patrick,7,8,1
+199,Phastos,7,8,6
+200,Thena,7,8,7
+201,Druig,7,8,10
+202,Gilgamesh,7,8,10
+203,Karun Patel,7,8,6
+204,Arishem the Judge,7,8,1
+205,Meredith Quill,3,10,3
+206,Grandpa Quill,3,10,2
+207,Bereet,3,10,1
+208,Yondu Udonta,3,10,7
+209,Horuz,3,10,2
+210,Kraglin Obfonteri,3,10,6
+211,The Broker,3,10,1
+212,Rhomann Dey,3,10,6
+213,Irani Rael,3,10,2
+214,Garthan Saal,3,10,2
+215,Ego,3,10,2
+216,Ayesha,3,10,2
+217,Taserface,3,10,1
+218,Stakar Ogord,8,9,4
+219,Aleta Ogord,8,9,3
+220,Charlie-27,8,9,3
+221,Martinex,8,9,3
+222,Sovereign Chambermaid,3,10,1
+223,Jimmy the Soldier,1,2,1
+224,Obadiah Stane,1,2,4
+225,Ho Yinsen,1,2,2
+226,Raza,1,2,3
+227,Dummy,1,2,1
+228,Christine Everhart,1,2,2
+229,William Ginter Riva,1,11,2
+230,Major Allen,1,2,1
+231,Ivan Vanko,1,2,3
+232,Anton Vanko,1,2,1
+233,Larry King,1,2,1
+234,Senator Stern,1,2,2
+235,Justin Hammer,1,2,7
+236,Elon Musk,1,2,2
+237,Jack White,1,2,1
+238,Maya Hansen,1,2,4
+239,Aldrich Killian,1,2,7
+240,President Ellis,1,2,3
+241,Erin (Iron Man Fan),1,2,1
+242,Eric Savin,1,2,4
+243,Harley Keener,1,2,1
+244,Trevor Slattery,4,2,8
+245,Mrs. Davis,1,2,1
+246,Ellen Brandt,1,2,1
+247,Gary the Cameraman,1,2,1
+248,Ying Li,4,1,2
+249,Xu Wenwu,4,1,4
+250,Shang-Chi,4,1,12
+251,Katy Chen,4,1,8
+252,Razor Fist,4,1,4
+253,Jon Jon,4,1,2
+254,Abomination,4,1,4
+255,Xu Xialing,4,1,5
+256,Morris,4,1,2
+257,Ying Nan,4,1,6
+258,Guang Bo,4,1,5
+259,John (Shang-Chi's friend),4,1,1
+260,Quentin Beck,10,11,8
+261,Betty Brant,10,11,5
+262,Jason Ionello,10,11,1
+263,Michelle Jones-Watson,10,11,14
+264,Roger Harrington,10,11,8
+265,Brad Davis,10,11,2
+266,Julius Dell,9,11,2
+267,Zach Cooper,10,11,1
+268,Flash Thompson,10,11,7
+269,Dimitri Smerdyakov,10,11,1
+270,EDITH,10,11,2
+271,Gutes Guterman,10,11,2
+272,Janice Lincoln,10,11,1
+273,Vulture,10,11,9
+274,Tinkerer,10,11,4
+275,Herman Schultz,10,11,6
+276,Anne Marie Hoag,10,11,1
+277,Liz Allen,10,11,9
+278,Cindy Moon,10,11,6
+279,Abe Brown,10,11,5
+280,Charles Murphy,10,11,6
+281,Sally Avril,10,11,1
+282,Mr. Delmar,10,11,1
+283,Coach Wilson,10,11,4
+284,Jackson Brice,10,11,4
+285,Aaron Davis,10,11,3
+286,Randy Vale,10,11,3
+287,KAREN,10,11,2
+288,Doris Toomes,10,11,3
+289,Mac Gargan,10,11,2
+290,Monica Warren,10,11,1
+291,J. Jonah Jameson,10,11,1
+292,Matt Murdock,1,11,3
+293,Otto Octavius,10,11,7
+294,Flint Marko,10,11,6
+295,Max Dillon,10,11,9
+296,Curt Connors,10,11,4
+297,Norman Osborn,10,11,6
+298,Webb Spider-Man,10,11,7
+299,Ned's Grandmother,10,11,1
+300,Raimi Spider-Man,10,11,9
+301,Erik Selvig,11,12,17
+302,Georgi Luchkov,2,12,2
+303,Galaga Player,11,2,1
+304,Ricky,4,1,1
+305,Martina,4,1,1
+306,Alves,4,1,1
+307,Samuel Sterns,4,1,3
+308,Stanley Lieber,4,1,1
+309,Leonard Samson,4,1,1
+310,Betty Ross,4,1,2
+311,Kathleen Sparr,4,1,2
+312,Jane Foster,11,12,16
+313,Darcy Lewis,11,12,11
+314,Odin,11,12,16
+315,Sif,11,12,15
+316,Hogun,11,12,10
+317,Fandral,11,12,13
+318,Volstagg,11,12,13
+319,Gungir,11,12,1
+320,Laufey,11,12,2
+321,Isabela Alvarez,11,12,2
+322,DeLancey,11,12,1
+323,Jackson (SHIELD agent),11,12,1
+324,The Destroyer,11,12,8
+325,Gorr the God Butcher,11,12,3
+326,Rapu,11,12,1
+327,Actor Loki,11,12,2
+328,Actor Odin,11,12,1
+329,Miek,11,12,2
+330,Axl,11,12,1
+331,Zeus,11,12,1
+332,Surtur,11,12,1
+333,Skurge,11,12,3
+334,Actor Thor,11,12,2
+335,Hela,11,12,6
+336,Topaz,11,1,2
+337,Grandmaster,11,12,6
+338,Cousin Carlo,11,12,2
+339,Warsong,11,12,1
+340,Fenris,11,12,3
+341,Commodore,11,12,2
+342,Malekith,11,12,4
+343,Kurse,11,12,1
+344,Bor Burison,11,12,1
+345,Richard Madison,11,12,1
+346,Ian Boothby,11,12,3
+347,Navid,11,12,2
+348,Maddie,11,12,2
+349,The Collector,3,10,7
+350,The Watcher,0,0,1

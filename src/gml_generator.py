@@ -29,4 +29,3 @@ for line in mcu_csv_lines:
             G.add_edge(split_line[i], split_line[j])
 
 nx.write_gml(G, "../MCU GML/MCU.gml")
-    # exit()

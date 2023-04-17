@@ -1,7 +1,7 @@
 import networkx as nx
 
-G = nx.Graph()
+MCU = nx.Graph()
 
-G = nx.barabasi_albert_graph(350, 1)
+MCU = nx.barabasi_albert_graph(350, 1)
 
-nx.write_gml(G, "ba_model.gml")
+nx.write_gml(MCU, "ba_model.gml")

@@ -1,11 +1,11 @@
 import networkx as nx
 
-G = nx.Graph()
+MCU = nx.Graph()
 
-G = nx.read_gml("../MCU GML/MCU.gml")
+MCU = nx.read_gml("../MCU GML/MCU.gml")
 
 # communities = nx.community.louvain_communities(G, seed=0)
-gn_iterator = nx.community.girvan_newman(G)
+gn_iterator = nx.community.girvan_newman(MCU)
 print("past gn")
 
 next(gn_iterator)
@@ -35,7 +35,7 @@ for i in range(0, len(communities)):
         # print(communities[i][j])
         community_dict[communities[i][j]] = i
 
-nx.set_node_attributes(G, community_dict, name="cluster")
+nx.set_node_attributes(MCU, community_dict, name="cluster")
 
 # print(G.nodes(data=True))
-nx.write_gml(G, "../MCU GML/MCU_girvan_newman.gml")
+nx.write_gml(MCU, "../MCU GML/MCU_girvan_newman.gml")

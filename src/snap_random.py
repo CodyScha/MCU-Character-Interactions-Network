@@ -1,13 +1,13 @@
 import networkx as nx
 import random
 
-G = nx.Graph()
+MCU = nx.Graph()
 
-G = nx.read_gml("..\MCU GML\MCU.gml")
+MCU = nx.read_gml("..\MCU GML\MCU.gml")
 
 to_be_removed = []
 
-for node in G.nodes:
+for node in MCU.nodes:
     num = random.random()
 
     if num > 0.5:
@@ -15,9 +15,9 @@ for node in G.nodes:
         to_be_removed.append(node)
 
 for r in to_be_removed:
-    G.remove_node(r)
+    MCU.remove_node(r)
 
-print(G.nodes)
-print(len(G.nodes))
+print(MCU.nodes)
+print(len(MCU.nodes))
 
-nx.write_gml(G, "..\MCU GML\MCU_random_snap.gml")
+nx.write_gml(MCU, "..\MCU GML\MCU_random_snap.gml")

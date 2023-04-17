@@ -10,7 +10,7 @@ for i in range(0, len(mcu_csv_lines)):
     mcu_csv_lines[i] = mcu_csv_lines[i].strip()
 
 # * Initialize the network
-G = nx.Graph()
+MCU = nx.Graph()
 
 for line in mcu_csv_lines:
     # * split the line by comma
@@ -26,6 +26,6 @@ for line in mcu_csv_lines:
     for i in range(0, len(split_line)):
         for j in range(i+1, len(split_line)):
             print("adding edge", split_line[i],"--", split_line[j])
-            G.add_edge(split_line[i], split_line[j])
+            MCU.add_edge(split_line[i], split_line[j])
 
-nx.write_gml(G, "../MCU GML/MCU.gml")
+nx.write_gml(MCU, "../MCU GML/MCU.gml")
